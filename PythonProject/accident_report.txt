@@ -1,0 +1,28 @@
+
+===== Accident Medical Report =====
+Date & Time: 2025-12-13 08:59:51
+
+--- AI & Crash Analysis ---
+Injury Level: HIGH
+Vehicle Speed: 180 km/h
+Estimated G-Force: 72.81 G
+Impact Stop Time: 0.07 sec
+Crash Severity: HIGH
+
+--- Sensors ---
+Heart Rate: 66 bpm
+Pressure: 112 PSI
+Temperature: 38.2 °C
+
+--- Vehicle Owner ---
+Name: Fahad AlRashed
+ID: 2093318844
+Phone: +966501234567
+
+--- Vehicle Info ---
+Type: Toyota Camry 2021
+Plate: XYZ-2244
+Registration: Valid
+Insurance: Tawuniya - Full Coverage
+
+==================================
